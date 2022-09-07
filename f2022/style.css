@@ -187,6 +187,12 @@ table {
   width: 250px;
   padding: 10px 0;
 }
+
+.ta {
+  float: left;
+  width: 175px;
+  padding: 10px 0;
+}
 .section {
   font-weight: bold;
   width: 20px;
@@ -289,3 +295,5 @@ h2{    margin-top: 4em;
     margin: 0;
   }
 }
+.instructor img { margin-top: 4px; width:200px;}
+.ta img { margin-top: 4px; width:150px;}
